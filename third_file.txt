@@ -5,3 +5,5 @@ This is the lastest file in the project right now.
 Línea añadida después de haberse cambiado al branch nuevo.
 
 se añade una línea al haberse cambiado al branch text_edits.
+
+línea añadida para anexarla al stash
